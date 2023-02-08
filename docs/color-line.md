@@ -4,7 +4,7 @@ John Henry Thompson
 2021
 
 The piece “The Color Line 1900” takes individual portraits from
-W.E.B. Du Bois’ 1900 Paris Exposition collection
+**W.E.B. Du Bois’ 1900 Paris Exposition collection**
 and contrast them with the observer today. It is an invitation for you - the observer - to reflect on what Du Bois said about the color line over 120 years ago and how it is manifest in your life today.
 
 In this piece, we have the portraits from the 1900 exhibit which are cast on the left as black and white facial recognition data and on the right we have the current observer captured as facial recognition data and summarized as colored triangles. The background color on the left is an average of the colors from the present - the computational “skin tone” projected into the past.
