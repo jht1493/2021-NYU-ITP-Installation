@@ -9,6 +9,8 @@ John Henry Thompson
 - [Color Line 1900 (1 screen)](color-line.md)
 - [Skin Tone (2 screens)](skin-tone.md)
 
+- [Data Portraits - 2022 addition ](data-portraits.md)
+
 The Colored Portraits installation explores the possibilities of experimentation and innovation in computing and video art by investigating the creative potential of filtering live video. Evolving from an adaptation of the
 [iOS native app DICE](http://www.johnhenrythompson.com/3-dice)
 to the ubiquitous, browser based art-making program,
@@ -67,3 +69,7 @@ Technologies:
 - [p5js - a javascript library](https://p5js.org) that makes it easier for people who do not have a mathematical or engineering background to harness the creative potential of the computer by programming in the browser.
 - [ml5js, a machine learning library](https://ml5js.org) for facial recognition, packaged together by people from ITP to make it compatible with p5js. ml5js builds on [TensorFlow js](https://www.tensorflow.org/js).
 - [Live Video library](https://github.com/vanevery/p5LiveMedia) created by Shawn Van Every.
+
+Data Portraits - 2022 addition
+
+[![](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)](https://jht1493.net/p5VideoKit/demo/external/media/mov/Colored-Portraits-2021/2023/2V3A8660-data-p.jpeg)
