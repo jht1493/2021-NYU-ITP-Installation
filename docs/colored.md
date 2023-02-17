@@ -42,11 +42,13 @@ The threefold progression of pieces is quite evocative.
 3. SKIN TONE
    Skin Tone is the culmination of Colored Portraits. Your large shimmering cubist face now fills the screen, and your average skin coloring defines the entire background color.
    The neighboring screen features smaller images of the past 8 viewers, with the current live viewer in the center. You can place yourself in the spectrum of colors of people in the present.
-   A Journey for the Viewer
-   Colored Portraits is a journey for the viewer. You start by seeing portraits of yourself in a new light, as digital cubist paintings. Your face is then juxtaposed with powerful historical images, and you end up facing yourself and your own color, and your place among others around you.
-   Thank you, John Henry -- my cosmic non-identical twin -- for your wonderful art work, Colored Portraits ! This journey does one good.
 
-   [http://benjaminbergery.com](http://benjaminbergery.com)
+A Journey for the Viewer.
+
+Colored Portraits is a journey for the viewer. You start by seeing portraits of yourself in a new light, as digital cubist paintings. Your face is then juxtaposed with powerful historical images, and you end up facing yourself and your own color, and your place among others around you.
+Thank you, John Henry -- my cosmic non-identical twin -- for your wonderful art work, Colored Portraits ! This journey does one good.
+
+[http://benjaminbergery.com](http://benjaminbergery.com)
 
 ## -
 
