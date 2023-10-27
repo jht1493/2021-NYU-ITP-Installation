@@ -3,6 +3,8 @@
 John Henry Thompson
 2021
 
+- [Data Portraits (John Henry Thompson) - 3 min 37 secs](https://vimeo.com/867291763)
+
 ## [Covid Memorial Ticker](covid.md)
 
 ## [Colored Portraits](colored.md)
