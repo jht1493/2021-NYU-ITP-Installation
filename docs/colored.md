@@ -18,7 +18,7 @@ to the ubiquitous, browser based art-making program,
 Colored Portraits is born of a desire (that runs throughout John Henry’s work) to facilitate art making with computing devices in ways that are accessible to artists and creators everywhere.
 
 Colored Portraits is a natural evolution of JHT’s creative explorations with long-time collaborator Benjamin Bergery as they seek to create fresh experiences for humans interacting with the computer to learn something new about themselves and the world around them.
-[“Objects are Colored by the Mind”](http://www.johnhenrythompson.com/yoga/patanjani/book-4/417)
+[“Objects are Colored by the Mind”](https://johnhenrythompson.com/johnhenrythompson/yoga/patanjani/book-4/417.html)
 from the “YOGA SYSTEM OF PATANJALI”
 
 The goal is to make everything that is experienced in this installation into an educational platform accessible through the browser. The code for this project will be available as an open source repository to encourage further development.
